@@ -1,0 +1,12 @@
+void main(){
+
+  var name = "Mncedisi";
+  var surname = "Mashaba";
+  var Profession = "Electronics tachnician";
+  var school = "Vaal University of Technology";
+  
+  print("My name is $name, and my surname is $surname");
+  print("I am an $Profession by profession");
+  print (I studied my diploma at $school");
+  
+  }
